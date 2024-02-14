@@ -9,6 +9,8 @@
   
   +Oyunda görülen herşey de Object Pool Sistemi uygulandı.
 
+  +Oyun her yeni başladığında tamamen dinamik bir şekilde yeniden oluşturulur. Böylelikle her oyun diğerinden farklı olur.
+
 #### Screenshots
 ![screenshot](https://github.com/kazimsaglam/SubRunner-Endless-Game/blob/main/Screenshots/ss1.png)
 ![screenshot](https://github.com/kazimsaglam/SubRunner-Endless-Game/blob/main/Screenshots/ss2.png)
