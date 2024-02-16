@@ -34,7 +34,7 @@ public class GameManager : MonoBehaviour
 
         if (health <= 0 && Input.GetKeyDown(KeyCode.Space))
         {
-            SceneManager.LoadScene("Scenes/InGame");
+            SceneManager.LoadScene(0);
         }
     }
 

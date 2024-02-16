@@ -459,8 +459,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b37d78b203c9c10468fc6293612b2593, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinPrefab: {fileID: 0}
   coinSound: {fileID: 8300000, guid: 7fa9b960ad2bf164ea1214028b853123, type: 3}
+  isMagnet: 0
   gameManager: {fileID: 0}
 --- !u!114 &1420960315
 MonoBehaviour:
@@ -481,13 +481,12 @@ MonoBehaviour:
   - {fileID: 103442, guid: 55ee4a460320aa8468f3e2895f4403ac, type: 3}
   - {fileID: 155376, guid: 6721e8bcec66024468feba3a2cd21b2b, type: 3}
   - {fileID: 162598, guid: 7edec43dba7bb324ab169c630e200ea2, type: 3}
-  bridgeSections:
-  - {fileID: 124920, guid: edc7014fc4a465f468b9bbe6bec2ae58, type: 3}
-  - {fileID: 103312, guid: 60e84b353ebb0b740a10ef4706feb4eb, type: 3}
-  tunnelSections: []
+  roadSize: 20
   createdRoads:
   - {fileID: 0}
   - {fileID: 0}
+  pooledRoads: []
+  roadParentContainer: {fileID: 0}
 --- !u!1 &9082764568533691095
 GameObject:
   m_ObjectHideFlags: 0

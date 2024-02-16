@@ -22,7 +22,7 @@ public class CloneCreationManager : MonoBehaviour
     {
         while(true)
         {
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(0.3f);
             int i = Random.Range(0, 3);
             GameObject coin = ObjectPooler.Instance.GetFromPoolCoin();
             if(i == 0)
@@ -118,7 +118,7 @@ public class CloneCreationManager : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSeconds(3f);
+            yield return new WaitForSeconds(2f);
             int i = Random.Range(0, 3);
             GameObject movingTrain = ObjectPooler.Instance.GetFromPoolMovingTrain();
             if (i == 0)
