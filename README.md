@@ -1,4 +1,6 @@
 # SubRunner Endless Game
+  P.S.: Hocam bu projelik farklı asset kullanımını mazur görün.Tabi sizin 100+ projeye baktığınızı düşününce... Bidaki projelerde böyle bir sorun olmayacağını temin ederim.
+  
   +Kendi en yüksek skorumuzu geçtiğimizde skor göstergesi renk değiştirir.
   
   +Bir yere çarptığımızda ölmeyiz, 3 çarpma hakkımız var ve bir yere çarptığımızda 2,5s blink/yanıp sönme efekti olur ve bu süre içinde herhangi bir şeye çarpamayız.
