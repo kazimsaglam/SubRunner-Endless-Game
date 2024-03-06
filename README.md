@@ -1,5 +1,4 @@
 # SubRunner Endless Game
-  P.S.: Hocam bu projelik farklı asset kullanımını mazur görün.Tabi sizin 100+ projeye baktığınızı düşününce... Bidaki projelerde böyle bir sorun olmayacağını temin ederim.
   
   +Kendi en yüksek skorumuzu geçtiğimizde skor göstergesi renk değiştirir.
   
